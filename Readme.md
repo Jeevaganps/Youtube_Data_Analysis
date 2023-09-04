@@ -67,3 +67,7 @@ This project focuses on collecting data from YouTube using the YouTube API and s
 5. Run the Python scripts for data extraction, MongoDB data storage, SQL database setup, and Streamlit app development.
 
 6. Access the Streamlit application to explore and interact with the YouTube data.
+
+### command to run the project:
+
+Streamlit run webpage.py
