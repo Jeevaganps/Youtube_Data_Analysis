@@ -18,6 +18,8 @@
 3. MySQL
 4. Google Client Library
 5. Pandas
+6. Plotly
+
 
 ### Project Description:
 
