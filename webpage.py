@@ -115,7 +115,7 @@ if selected_tab == "About":
 
     # Project Explanation
     st.header("Explanation about project:")
-    st.write("1. This proiect Collects the data from youtube using youtube api and get stored the data in mongodb and migrate through sol and visualised")
+    st.write("1. This proiect Collects the data from youtube using youtube api and get stored the data in mongodb and migrate through sql and visualised")
     st.write("2. The streamit Application allows the users to access and analyze data from multiple YouTube channels ")
     st.write("3. This apolication allows the user to give a YouTube channel ID as input and retrivies the relevant data. Able to collect data for multiple YouTube channels and store them in a database just clicking a button")
     st.write("4. By Selecting a channel, we could migrate the data from MongoDB Database to mySQL, to retrieve the relevant youtube Channel information like video comments, likes.")
