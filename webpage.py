@@ -110,7 +110,7 @@ if selected_tab == "About":
     
 
     # Streamlit app title and description
-    st.title("YouTube Data Analysis Project")
+    st.title("YouTube Data Harvesting and Warehousing using SQL, MongoDB and Streamlit")
     st.write("This project involves collecting data from YouTube, storing it in MongoDB, migrating it to SQL, and visualizing the data.")
 
     # Project Explanation
